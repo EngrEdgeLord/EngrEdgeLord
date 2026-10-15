@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Ersultan 👋
 
-<!--
-**EngrEdgeLord/EngrEdgeLord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** focused on building modern web applications, APIs, and database-driven systems
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- Next.js
+- React
+- TypeScript
+- JavaScript
+
+**Backend**
+- Django
+- FastAPI
+- Python
+
+**Database**
+- PostgreSQL
+
+**Tools**
+- Git & GitHub
+- Docker
+- Linux
+
+### What I Build
+
+- Full-stack web applications
+- REST APIs
+- Business dashboards
+- Admin panels
+- PostgreSQL-backed applications
+- Features and bug fixes for existing web applications
+
+### Currently
+
+I'm building a professional freelance portfolio focused on real-world full-stack projects
+
+### Contact
+
+Available for freelance web development opportunities
